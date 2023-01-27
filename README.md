@@ -17,3 +17,5 @@ Data can seem very complicated and overwhelming at first. During the exploratory
 # Portfolio
 
 This is where all my cool work will go. This is why you should hire me.
+
+[Government Debt Data Viz](/dataviz2.md)
