@@ -16,7 +16,7 @@ The above chart is directly from the OECD site. The original chart does a nice j
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12566537"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-More description of the text above
+The chart above gives each country its own plot and shows trend of debt throughout multiple years. This helps to see if the country debt is getting better or worse with time.
 
 
 ## Debt-to-GDP Ratios Around the World (1995 - 2021) - Redesign 2
