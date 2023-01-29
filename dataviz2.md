@@ -10,16 +10,16 @@ The goal of this asignment is to try different ways to display the data provided
  
 <iframe src="https://data.oecd.org/chart/6XPu" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XPu" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-The above chart is directly from the OECD site. The original chart does a nice job in showing which countries has the highest debt by usung a bar chart.
+The above chart is directly from the OECD site. The original chart does a nice job in showing which countries was in the most debt in 2021 by usung a bar chart. You can see Japan had the most and Estonia had the least compared to all the countries shown
 
-## Debt-to-GDP Ratios Around the World (1995 - 2921) - Redesign 1
+## Debt-to-GDP Ratios Around the World (1995 - 2021) - Redesign 1
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12566537"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 More description of the text above
 
 
-## Debt-to-GDP Ratios Around the World (1995 - 2921) - Redesign 2
+## Debt-to-GDP Ratios Around the World (1995 - 2021) - Redesign 2
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/12566923"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
