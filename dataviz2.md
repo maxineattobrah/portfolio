@@ -23,4 +23,4 @@ The chart above gives each country its own plot and shows trend of debt througho
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/12566923"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Some description of this text
+This is the same data displayed in heatmap. In this chart you can see what countries are doing well. However, you can see which countries are doing trally bad.
