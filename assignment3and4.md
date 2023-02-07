@@ -1,4 +1,6 @@
-Original Data Link
+# Assignment 3 and 4
+
+## Original Data Link
 
 ![Starbucks Map](starbuck_orginal_chart.png)
 
@@ -6,21 +8,42 @@ https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.h
 
 
 
-My Sketches
+## My Sketches
 
 ![Redesign Sketch 1](starbucks_redesign_sketch_barchart.png)
 
-![Redesign Sketch 2](starbuck_orginal_chart.png)
+![Redesign Sketch 2](starbucks_redesign_sketch_piechart.png)
 
 
-Feedback
+## Feedback
 
 
 
-My VIsualizations in Tableau
+## My Visualizations in Tableau
+
+<div class='tableauPlaceholder' id='viz1675809907752' style='position: relative'><noscript><a href='#'><img alt='NY Leads In Trying To Make Better Working Conditions For Starbucks EmployeesNumber of stores in US that have won the right to be apart of the Union ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;barchart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34PieChart&#47;barchart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;barchart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1675809907752');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
-Class Discussion
+
+<div class='tableauPlaceholder' id='viz1675810196914' style='position: relative'><noscript><a href='#'><img alt='Starbucks Wants Better Working Conditions For Employees ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;piechart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34PieChart&#47;piechart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;piechart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1675810196914');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
+## Class Discussion
 
 We had an in class discussion to get feedback from students in our class. 
 
@@ -38,7 +61,7 @@ I too there advice and came up with is new bar chart.
 
 However, I did not think this graph was impactful since most of it was 100%. So I decided to look at the Union losses.
 
-Final Visualizations in Tableau
+## Final Visualizations in Tableau
 
 This is my final design. 
 
