@@ -2,7 +2,7 @@
 
 ## Original Data Link
 
-![Starbucks Map]<img src="starbuck_orginal_chart.png" width="5%" height="5%">
+<img src="starbuck_orginal_chart.png" alt="Starbucks Map" width="50%" height="50%">
 
 [This is the Artcle](https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html)
 [Data Can Be Found hERE](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
