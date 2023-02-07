@@ -4,7 +4,8 @@
 
 ![Starbucks Map](starbuck_orginal_chart.png)
 
-https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html
+[This is the Artcle](https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html)
+[Data Can Be Found hERE](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
 
 
 
