@@ -1,10 +1,20 @@
 Original Data Link
 
+![Starbucks Map](starbuck_orginal_chart.png)
+
 https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html
 
 
 
 My Sketches
+
+![Redesign Sketch 1](starbucks_redesign_sketch_barchart.png)
+
+![Redesign Sketch 2](starbuck_orginal_chart.png)
+
+
+Feedback
+
 
 
 My VIsualizations in Tableau
