@@ -164,14 +164,20 @@ For the pie chart I understood that they wanted to see numbers included as well.
 
 ### In Class Group Disccusion: Students, early 20s - late 20a
 
-The in class group discussion helped break the tie. 
+The in class group discussion helped break the tie. My group liked the bar chart the most. What resonated with my group members the most was that I highlighted the leading state which was NY and that they were able to see which data belonged to a specific state. What I learned to make better is the amount of data shown in the bar chart. In the chart above you have to scroll to see the rest of the data. They suggested I just show the top 10. They suggested I change the title of the pie chart if I decided to keep it. A question that came up was why I removed the pending data. 
 
+There were a couple of inspirations that came across from our discussion:
+- Union should be added to the title so that it will be more clear
+- Change numbers to percentages
+- Add pending stores to show full story
+- Compare stores that tried vs stores that won
+- Show top 10 states
 
 
 
 ## Solution 2
 
-I added th percentages. 
+Overall, I decided to just stick with a bar chart and remove the pie chart. I added th percentages. 
 
 <div class='tableauPlaceholder' id='viz1675808422785' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='twsd_class_discussion_revision&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
