@@ -28,6 +28,8 @@ The first is a bar chart. I wanted to focus on a portion of the data so I decide
 
 I chose this title because it gave a general idea of what the chart was about. It seemed like it would invite the reader to explore more. I decided not to write the specific states in my sketch because I was just brainstorming. The final build would eventually have the specific states. 
 
+***
+***
 
 ### Sketch 2:
 
