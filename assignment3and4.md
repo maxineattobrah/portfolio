@@ -42,13 +42,58 @@ I chose this title because I felt it went straight to the point of what I  wante
 
 
 
-## Feedback
+## Initial User Feedback
 
-After creating my sketches I received feed back from a couple of people.
+After creating my sketches I received feedback from a couple of people. I asked the users the same questions for the charts which are listed below. The goal was for them to tell them what they understood I was trying to convey from just looking at the charts without me having to say anything. 
+
+Questions Asked:
+
+- Can you tell me what you think this is?
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
+
+- is there anything you like/dislike about the charts?
+
+- Is there any particular type of chart you like better?
+
 
 ### Student, mid 30s
 
 This person liked the second chart better. They liked that it was straight to the point. 
+
+- Can you tell me what you think this is?
+
+I think this is a graphical representation of how many starbucks stores have unionized.
+
+- Can you describe to me what this is telling you?
+
+The first graph is telling me that many states have unionized multiple stores. The second graph is telling me there are more wins than loses.
+
+- Is there anything you find surprising or confusing?
+
+I would have liked each state labeled by their number instead of just “states”
+
+- Who do you think is the intended audience for this?
+
+General public that need to get the point fast without in depth detail.
+
+- Is there anything you would change or do differently?
+
+Just above comment.
+
+- is there anything you like/dislike about the charts?
+
+I like that they are succinct. The second one really drives the point home they are winning overall.
+
+- Is there any particular type of chart you like better?
+
+The second is simple but punchy to me.
 
 
 
@@ -56,12 +101,40 @@ This person liked the second chart better. They liked that it was straight to th
 
 This person liked the first chart more 
 
+- Can you tell me what you think this is?
+
+The first chart looks like the number of stores that are unionized per state maybe, but it does not look like there are enough states. The second is just union wins versus losses.
+
+- Can you describe to me what this is telling you?
+
+It's telling me that an overwhelming number of stores want to unionize and starbucks wants to improve working conditions is why there are so many union wins.
+
+- Is there anything you find surprising or confusing?
+
+There is nothing to indicate the pending stores or losses in either charts. Additionally, the title over the second chart did not make sense in combination with the pie chart underneath. Finally, it does not appear that the number of states is correctly represented.
+
+- Who do you think is the intended audience for this?
+
+I don't think it's a general public, because they'd care about location information. Probably someone at starbucks who cares about the numbers more than the details like stockholders.
+
+- Is there anything you would change or do differently?
+
+Add more information to the y-axis of the first chart i.e. state names or regions or something, and add percentages to the second chart. Also a purpose for the second chart.
+
+- is there anything you like/dislike about the charts?
+
+I think pie charts are not great ways to portray a lot of information other than a quick summary such as this one. On it's own I don't like it, with the other one it is ok. I do like the first graph because it gives more information but it does not give more specific information such as what part of the state they are in.
+
+- Is there any particular type of chart you like better?
+
+For something like this a stacked bar chart of unionized, pending, or lost in the same fashion as the first one would be cool.
+
 
 ## Solution 1:
-Since there was a tie I created two charts using Tableau
+Since there was a tie I created two charts using Tableau based on their feedback. 
 
 
-## My Visualizations in Tableau
+For the bar chart I understood that they wanted to see atleast the specific states
 
 <div class='tableauPlaceholder' id='viz1675809907752' style='position: relative'><noscript><a href='#'><img alt='NY Leads In Trying To Make Better Working Conditions For Starbucks EmployeesNumber of stores in US that have won the right to be apart of the Union ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;barchart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34PieChart&#47;barchart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;barchart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1675809907752');                    
@@ -73,6 +146,7 @@ Since there was a tie I created two charts using Tableau
 </script>
 
 
+For the pie chart I understood that they wanted to see numbers included as well.
 
 <div class='tableauPlaceholder' id='viz1675810196914' style='position: relative'><noscript><a href='#'><img alt='Starbucks Wants Better Working Conditions For Employees ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;piechart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34PieChart&#47;piechart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34PieChart&#47;piechart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -95,8 +169,9 @@ The in class group discussion helped break the tie.
 
 
 
-
 ## Solution 2
+
+I added th percentages. 
 
 <div class='tableauPlaceholder' id='viz1675808422785' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='twsd_class_discussion_revision&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -110,9 +185,10 @@ The in class group discussion helped break the tie.
 
 However, I did not think this graph was impactful since most of it was 100%. So I decided to look at the Union losses.
 
+
 ## Final Solution:
 
-This is my final design. 
+This is my final design. This chart shows more variety in the data. There are bigger differences between the number states. 
 
 <div class='tableauPlaceholder' id='viz1675808726797' style='position: relative'><noscript><a href='#'><img alt='Top 10 States Rejecting Unionization In Starbucks Stores ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10UnionRejections&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top10UnionRejections&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10UnionRejections&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
