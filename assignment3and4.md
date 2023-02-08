@@ -1,15 +1,23 @@
 # Assignment 3 and 4
 
-## Original Data Link
+## Starbucks
+
+
+## Original Chart
 
 <img src="starbuck_orginal_chart.png" alt="Starbucks Map" width="100%" height="100%">
 
 [This is the Artcle](https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html)
-[Data Can Be Found hERE](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
+[Data Source](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
 
 
+I thought it was visually appealing to see the data shown on a map. The use of a map made clear to see what states are participating or have atleast tried to become unionized. The colors used in this chart are nice as well. The combination of the map and the colors draws someone to want to engage with the data to understand it more. 
+
+However, the overlapping dots made the data shown unclear. The only colors shown in the legend are purple, green and yellow but in the map there are black dots as well. You have to zoom in to seperate the colors. I did not think it was necessary to show data on closed stores in the chart unless the stores closed because employees were trying to unionize. However, that is not clear from the data. 
 
 ## My Sketches
+
+I thought of two redesigns which are shown below.
 
 <img src="starbucks_redesign_sketch_barchart.png" alt="Redesign Sketch 1" width="100%" height="100%">
 
