@@ -17,7 +17,11 @@ However, the overlapping dots made the data shown unclear. The only colors shown
 
 ## My Sketches
 
-I thought of two redesigns which are shown below.
+There is so much data provided. It seemed difficult to show all the details in a clear and concise way for the reader so I decided to steer away from trying to show every detail. I thought of two redesigns which are shown below.
+
+The first is a bar chart. I wanted to focus on a portion of the data so I decided to focus on the positives. The bar chart I created only focused on stores that have won being apart of the Union. Initially I did not think order mattered. I just wanted to show that these stores won. I thought if the reader was from that state and loved to go to Starbucks they would be proud with just knowing this information. This would probably encourage them to support their local Starbuck more. The colors of the bars are all blue because it is a neutral color and since the bars are not in any order I though changing the shades of the colors by size of the bar would be distracting. However, I thought adding the numbers to the end of the bars made it easier for the read and made it visually appealing. 
+
+I chose this title because it gave a general idea of what the chart was about. It seemed like it would invite the reader to explore more. I decided not to write the specific states in my sketch because I was just brainstorming. The final build would eventually have the specific states. 
 
 <img src="starbucks_redesign_sketch_barchart.png" alt="Redesign Sketch 1" width="100%" height="100%">
 
