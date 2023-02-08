@@ -177,7 +177,9 @@ There were a couple of inspirations that came across from our discussion:
 
 ## Solution 2
 
-Overall, I decided to just stick with a bar chart and remove the pie chart. I added th percentages. 
+Overall, I decided to just stick with a bar chart and remove the pie chart. 
+
+Instead of only showing the number of stores that won, I am not showing the percentage of stores that won over the total number of stores that filed in that state. This changed the data shown and tells a better story. However, only showing the top 10 states doesnt show anyuthing meaningful in my opnion since all 10 are 100%. This made me feel like I wouuld have to change the chart again. Instead, I decided to expand to top 20. This did look as interesting as my original solution but it told a more accurate story si I decided to see how union losses would look like.
 
 <div class='tableauPlaceholder' id='viz1675808422785' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='twsd_class_discussion_revision&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -189,12 +191,11 @@ Overall, I decided to just stick with a bar chart and remove the pie chart. I ad
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-However, I did not think this graph was impactful since most of it was 100%. So I decided to look at the Union losses.
 
 
 ## Final Solution:
 
-This is my final design. This chart shows more variety in the data. There are bigger differences between the number states. 
+I like this chart better because tthe chart shows more variety in the data. There are bigger differences between the number states. 
 
 <div class='tableauPlaceholder' id='viz1675808726797' style='position: relative'><noscript><a href='#'><img alt='Top 10 States Rejecting Unionization In Starbucks Stores ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10UnionRejections&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top10UnionRejections&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10UnionRejections&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
