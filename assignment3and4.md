@@ -25,6 +25,10 @@ I chose this title because it gave a general idea of what the chart was about. I
 
 <img src="starbucks_redesign_sketch_barchart.png" alt="Redesign Sketch 1" width="100%" height="100%">
 
+The second chart is a part chart. In this chart I wanted to focus on the bigger picture. The idea was to show much Starbucks cared about the working conditions of their employees overall. So I created this chart that focused only on the Union Wins vs Union Losses in the United States. I chose the color green for Union Wins because that represented a good thing and red for Union Losses becauses that represented a bad thing.
+
+I chose this title because I felt it went straight to the point of what I  wanted the readers to get from this data. 
+
 <img src="starbucks_redesign_sketch_piechart.png" alt="Redesign Sketch 2" width="100%" height="100%">
 
 
