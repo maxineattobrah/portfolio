@@ -2,13 +2,18 @@
 
 ## Starbucks
 
+This chart tries to show the reader the stores within the United States that have filed to become unionzed but have either won, loss or contested.
+
+I picked this chart because I thought it would be more relatable to my audience compared to other data I found. I like Starbucks and I know a lot people like Starbucks. This chart looked interesting to work with. There are many ways to apply what I have learned in class to express this data in different ways. 
 
 ## Original Chart
 
 <img src="starbuck_orginal_chart.png" alt="Starbucks Map" width="100%" height="100%">
 
-[This is the Artcle](https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html)
 [Data Source](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
+
+[This article for this chart can be found here](https://www.cnbc.com/2022/12/09/map-of-starbucks-stores-that-voted-to-unionize.html)
+
 
 
 I thought it was visually appealing to see the data shown on a map. The use of a map made clear to see what states are participating or have atleast tried to become unionized. The colors used in this chart are nice as well. The combination of the map and the colors draws someone to want to engage with the data to understand it more. 
