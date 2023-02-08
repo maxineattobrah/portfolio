@@ -8,7 +8,7 @@ I picked this chart because I thought it would be more relatable to my audience 
 
 ## Original Chart
 
-<img src="starbuck_original_chart.png" alt="Starbucks Map" width="100%" height="100%">
+<img src="starbuck_original_charts.png" alt="Starbucks Map" width="100%" height="100%">
 
 [Data Source](https://docs.google.com/spreadsheets/d/11b4c6hOR-LmxNXQc2Q--Am4NiVAIAGzIBCPfDOwDU44/edit#gid=980621332)
 
