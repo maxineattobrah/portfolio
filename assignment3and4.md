@@ -44,6 +44,21 @@ I chose this title because I felt it went straight to the point of what I  wante
 
 ## Feedback
 
+After creating my sketches I received feed back from a couple of people.
+
+### Student, mid 30s
+
+This person liked the second chart better. They liked that it was straight to the point. 
+
+
+
+### Student, late 20s
+
+This person liked the first chart more 
+
+
+## Solution 1:
+Since there was a tie I created two charts using Tableau
 
 
 ## My Visualizations in Tableau
@@ -70,11 +85,18 @@ I chose this title because I felt it went straight to the point of what I  wante
 </script>
 
 
-## Class Discussion
 
-We had an in class discussion to get feedback from students in our class. 
+## More User Feedback
 
-I too there advice and came up with is new bar chart.
+### In Class Group Disccusion: Students, early 20s - late 20a
+
+The in class group discussion helped break the tie. 
+
+
+
+
+
+## Solution 2
 
 <div class='tableauPlaceholder' id='viz1675808422785' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='twsd_class_discussion_revision&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tw&#47;twsd_class_discussion_revision&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -88,7 +110,7 @@ I too there advice and came up with is new bar chart.
 
 However, I did not think this graph was impactful since most of it was 100%. So I decided to look at the Union losses.
 
-## Final Visualizations in Tableau
+## Final Solution:
 
 This is my final design. 
 
