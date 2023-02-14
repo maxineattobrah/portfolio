@@ -17,9 +17,16 @@ Not every sneaker is going to give you a great return on investment. You may eve
 
 I first wanted to start with a overview of the most popular brands. I chose a pie chart because I felt it focused on the big picture. Nike is the most popular brand then Adidas. Most of the other brands only appeared in the data one time while Nike sneakers appeared over 600 times. I think it would be helpful to add the percentages but as a sketch I feel it gives the main idea of what the chart could look. 
 
+<img src="twsd_final_project_piechart.PNG" alt="Starbucks Map" width="100%" height="100%">
+
+
 
 
 After showing an overview of the most popular brands I feel it would be a good idea to discuss the platforms people can buy and sell from after a shoe has sold out of retail storees. I decided to go with a bar chart because it shows the comparison well. GOAT and FlightClub have similar pricing so a pie chart would not be helpful because it would be harder to see the slight difference. 
+
+
+<img src="twsd_final_project_barchart.PNG" alt="Starbucks Map" width="100%" height="100%">
+
 
 # The Data
 
