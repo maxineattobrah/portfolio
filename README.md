@@ -21,3 +21,5 @@ This is where all my cool work will go. This is why you should hire me.
 [Government Debt Data Viz](/dataviz2.md)
 
 [Assignment 3 and 4](/assignment3and4.md)
+
+[Final Project](/final_project_maxineattobrah.md)
