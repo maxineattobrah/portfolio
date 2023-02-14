@@ -1,10 +1,8 @@
 # Outline
 
-In this day and age people have the opportunity to invest in other options besides the stock market and real estate. 
+In this day and age people have the opportunity to invest in other options besides the stock market and real estate. In this project I would like to explore the possiblility of investing in sneakers.
 
-Investing in sneakers is when you sell sneakers at a higher price point then when you sell it. Typically, it is best to buy the sneakers at retail price so that you can maxmize your profit when you decide to resell. 
-
-In this project I would like to explore the possiblility of investing in art and sneakers.
+Investing in sneakers is when you sell sneakers at a higher price point then when you bought it. Typically, it is best to buy the sneakers at retail price so that you can maxmize your profit when you decide to sell. 
 
 Not every sneaker is going to give you a great return on investment. You may even lose money! There are many factors that play a role in making a sneaker valuable such as:
 -  Brand
@@ -12,6 +10,9 @@ Not every sneaker is going to give you a great return on investment. You may eve
 -  Limited Quantity
 -  Hype
 -  Collaborations
+
+
+In this project I would like to take the audience through the journey looking at sneaker reselling as an investment option.
 
 # Initial Sketches
 
@@ -21,11 +22,13 @@ I first wanted to start with a overview of the most popular brands. I chose a pi
 
 
 
-
 After showing an overview of the most popular brands I feel it would be a good idea to discuss the platforms people can buy and sell from after a shoe has sold out of retail storees. I decided to go with a bar chart because it shows the comparison well. GOAT and FlightClub have similar pricing so a pie chart would not be helpful because it would be harder to see the slight difference. 
 
 
 <img src="twsd_final_project_barchart.PNG" alt="Starbucks Map" width="100%" height="100%">
+
+
+I would like to create more charts like comparing retail prices to resell prices for various but I am looking for more data in the mean time. 
 
 
 # The Data
