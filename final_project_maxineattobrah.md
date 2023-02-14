@@ -33,7 +33,7 @@ I would like to create more charts like comparing retail prices to resell prices
 
 # The Data
 
-The data used in this project is from the [Sneaks API]("https://github.com/druv5319/Sneaks-API/blob/master/README.md"). This API pulls data from Stockx and GOAT which are some of the top sneaker reselling platforms in the world. Using this tool I pulled the most popular ~800 sneakers to date. I thought looking at the most popular sneakers would tell a better story that choosing random sneakers to analyze. The variables within this dataset include:
+The data used in this project is from the [Sneaks API](https://github.com/druv5319/Sneaks-API/blob/master/README.md). This API pulls data from Stockx and GOAT which are some of the top sneaker reselling platforms in the world. Using this tool I pulled the most popular ~800 sneakers to date. I thought looking at the most popular sneakers would tell a better story that choosing random sneakers to analyze. The variables within this dataset include:
 - Brand of the Sneaker
 - Retail Price
 - Lowest Resell Price on Stockx and GOAT as of 2/13/2023
@@ -42,7 +42,7 @@ The data used in this project is from the [Sneaks API]("https://github.com/druv5
 
 All of these variables are important for people who want to buy or resell sneakers. Data like this helps people make informed decisions on how to price sneakers and what to look out for. The API gave alot of data such id numbers, brand, sneaker name, retail price, lowest resell price, image links and much more. However, I felt it was necessary to only keep a few of the variables which some are listed above. 
 
-The data from the API was in a JSON format so I had to clean and reformat it to be able to understand the data better. I put the data into a csv file which can be found [here](/SneakerData.csv). 
+The data from the API was in a JSON format so I had to clean and reformat it to be able to understand the data better. I put the data into a csv file which can be found [here](https://github.com/maxineattobrah/portfolio/blob/main/SneakerData.csv). 
 
 # Medium and Method
 
