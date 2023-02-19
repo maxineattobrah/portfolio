@@ -3,7 +3,13 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Below is my initial wireframe. I chose to jump straight in using Shorthand for this so I can put all my thoughts in one place. I wanted to use images and data that would grab the readers attention. I chose images and figures that get me excited. I wanted to start the story off by giving a brief overview of what this topic is going to be about. 
+
+The flow starts off with an overview, then the top platforms to look into, then the top sneaker brands, shows off some shoes that have done well, then shoes that have not done well. 
+
+Finally I provide some resources of how people can learn more about reselling sneakers. Some of my favorite youtubers to get information on sneakers and what tools that make be helpful to get the next limited edition sneaker.
+
+There are various options people have to invest their money and I wanted to focus on an alternative approach to investing in the stock market or real estate. This is a fun way to invest money as opposed to being very serious. Sneakers come with color, culture and art. There is alot that goes into sneaker reselling. 
 
 <script src="https://carnegiemellon.shorthandstories.com/a-story-on-selling-sneakers/embed.js"></script>
 
@@ -12,7 +18,8 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience are people who are interested in reselling sneakers as an additional source income. I am a sneakerhead and I have friends who are sneakerheads as well so I plan on interviewing them. I also want to get opinions from people in the general public because I want this guide to be clear for anyone who is interested in considering sneaker reselling as an option of income.   
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -21,7 +28,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|  Clear Message    |                  |
 |      |                  |
 |      |                  |
 
