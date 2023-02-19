@@ -3,6 +3,7 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
+***
 There are various options people have to invest their money and I wanted to focus on an alternative approach to investing in the stock market or real estate. This is a fun way to invest money as opposed to being very serious. Sneakers come with color, culture and art. There is alot that goes into sneaker reselling. 
 
 Below is my initial wireframe. I chose to jump straight in using Shorthand for this so I can put all my thoughts in one place. I wanted to use images and data that would grab the readers attention. I chose images and figures that get me excited. I wanted to start the story off by giving a brief overview of what this topic is going to be about. 
@@ -17,6 +18,8 @@ I wanted to use both Tableau as well Flourish as a data visualization to stretch
 <script src="https://carnegiemellon.shorthandstories.com/a-story-on-selling-sneakers/embed.js"></script>
 
 Thats the end of my first draft!
+
+***
 
 # User research 
 
