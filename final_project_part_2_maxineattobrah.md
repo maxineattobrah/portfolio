@@ -75,4 +75,4 @@ Text here!
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-<embed src="https://github.com/maxineattobrah/portfolio/blob/main/Sneakerhead_Persona.pdf"></embed>
+<embed src="Sneakerhead_Persona.pdf"></embed>
