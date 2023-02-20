@@ -75,4 +75,4 @@ Text here!
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-<embed src="Sneakerhead_Persona.pdf"></embed>
+<embed src="Sneakerhead_Persona.pdf" width="800" height="800"></embed>
