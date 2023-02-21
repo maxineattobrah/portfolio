@@ -92,5 +92,5 @@ Text here!
 > If you did this optional part, include details here.  Otherwise remove this section
 
 <div width="100%" height="100%">
-  <embed src="Sneakerhead_Persona.pdf" width="800" height="100800">
+  <embed src="Sneakerhead_Persona.pdf" width="800" height="800">
 </div>
