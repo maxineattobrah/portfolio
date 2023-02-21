@@ -26,7 +26,11 @@ Thats the end of my first draft!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-My target audience are people who are interested in reselling sneakers as an additional source income. I am a sneakerhead and I have friends who are sneakerheads as well so I plan on interviewing them. I also want to get opinions from people in the general public because I want this guide to be clear for anyone who is interested in considering sneaker reselling as an option of income.   
+My target audience are sneakerheads who are interested in reselling sneakers. 
+
+My approach to identifying representatives is my reaching within my network. I am a sneakerhead and I have friends who are sneakerheads as well so I plan on interviewing some of them. 
+
+I also want to get opinions from people in the general public because I want this guide to be clear for anyone who is interested in considering sneaker reselling as an option of income.   
 
 
 ## Interview script
@@ -34,12 +38,16 @@ My target audience are people who are interested in reselling sneakers as an add
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|  Clear Message    |                  |
-|      |                  |
-|      |                  |
-
+| Goal          | Questions to Ask                                      |
+|---------------|-------------------------------------------------------|
+| Clear Message | Who do you think the audience is for this?            |
+| Clear Message | Can you describe to me what this is telling you?      |
+| Clear Message | Are there any things you would like to see?           |
+| Clear Message | Were there any things you did not care about?         |
+| Clear Message | Anything you found confusing?                         |
+| Clear Message | What actions would you take after reading this?       |
+| Clear Message | Is there anything you like/dislike about the charts?  |
+| Clear Message | Is there any particular type of chart you like better?|
 
 Text here!
 
@@ -76,5 +84,5 @@ Text here!
 > If you did this optional part, include details here.  Otherwise remove this section
 
 <div width="100%" height="100%">
-  <embed src="Sneakerhead_Persona.pdf" width="100%" height="100%">
+  <embed src="Sneakerhead_Persona.pdf" width="800" height="100800">
 </div>
