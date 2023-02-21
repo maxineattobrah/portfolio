@@ -56,8 +56,8 @@ Text here!
 
 Text here!
 
-| Questions                                    | Interview 1 (Sneaker Reseller,                         | Interview 2 | Interview 3 |
-                                                 2nd Year Masters Student)                             
+| Questions                                    | Interview 1 (Sneaker Reseller, 2nd Year Masters Student) | Interview 2 | Interview 3 |
+|                                              |                          
 |----------------------------------------------|--------------------------------------------------------|-------------|-------------|
 | Who do you think the audience is for this?   | someone trying to get into sneaker reselling industry  |             |             |
 | Are there anythings you would like to see?   | affects from social media and celebrities              |             |             |   
