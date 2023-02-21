@@ -56,8 +56,8 @@ Text here!
 
 Text here!
 
-| Questions                                    | Interview 1 (Sneaker Reseller,                         |
-|                                              |  2nd Year Masters Student)                             | Interview 2 | Interview 3 |
+| Questions                                    | Interview 1 (Sneaker Reseller,                         | Interview 2 | Interview 3 |
+                                                 2nd Year Masters Student)                             
 |----------------------------------------------|--------------------------------------------------------|-------------|-------------|
 | Who do you think the audience is for this?   | someone trying to get into sneaker reselling industry  |             |             |
 | Are there anythings you would like to see?   | affects from social media and celebrities              |             |             |   
@@ -90,6 +90,8 @@ Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
+
+I dedecided to create a persona for a sneakerhead. Steve is passionate about sneakers. He wasnts to start reselling sneakers. 
 
 <div width="100%" height="100%">
   <embed src="Sneakerhead_Persona.pdf" width="800" height="800">
