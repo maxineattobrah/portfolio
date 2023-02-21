@@ -26,9 +26,9 @@ Thats the end of my first draft!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-My target audience are sneakerheads who are interested in reselling sneakers. 
+A sneakerhead is a person who collects, trades and/or admires sneakers. My target audience are people who are passionate about sneakers and are considering reselling sneakers. 
 
-My approach to identifying representatives is my reaching within my network. I am a sneakerhead and I have friends who are sneakerheads as well so I plan on interviewing some of them. 
+My approach to identifying representatives is by reaching out to people within my network. I am a sneakerhead and I have friends who are sneakerheads as well so I plan on interviewing some of them. 
 
 I also want to get opinions from people in the general public because I want this guide to be clear for anyone who is interested in considering sneaker reselling as an option of income.   
 
@@ -36,18 +36,18 @@ I also want to get opinions from people in the general public because I want thi
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I thought of a few questions that would help me see if the flow of my story is clear and would be helpful to someone new reselling snekaers. 
 
-| Goal          | Questions to Ask                                      |
-|---------------|-------------------------------------------------------|
-| Clear Message | Who do you think the audience is for this?            |
-| Clear Message | Can you describe to me what this is telling you?      |
-| Clear Message | Are there any things you would like to see?           |
-| Clear Message | Were there any things you did not care about?         |
-| Clear Message | Anything you found confusing?                         |
-| Clear Message | What actions would you take after reading this?       |
-| Clear Message | Is there anything you like/dislike about the charts?  |
-| Clear Message | Is there any particular type of chart you like better?|
+| Goal                                         | Questions to Ask                                      |
+|----------------------------------------------|-------------------------------------------------------|
+| Clear Message                                | Who do you think the audience is for this?            |
+| Check If My Story is Clear                   | Can you describe to me what this is telling you?      |
+| Check If I Missed Anything                   | Are there any things you would like to see?           |
+| See What I Can Remove                        | Were there any things you did not care about?         |
+| Check If My Story is Clear                   | Anything you found confusing?                         |
+| Ensure MY Call To Action Is Clear            | What actions would you take after reading this?       |
+| See If I Should Stick With The Charts I Have | Is there anything you like/dislike about the charts?  |
+| See If I Should Stick With The Charts I Have | Is there any particular type of chart you like better?|
 
 Text here!
 
@@ -56,11 +56,19 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                                    | Interview 1 (Sneaker Reseller,                         |
+|                                              |  2nd Year Masters Student)                             | Interview 2 | Interview 3 |
+|----------------------------------------------|--------------------------------------------------------|-------------|-------------|
+| Who do you think the audience is for this?   | someone trying to get into sneaker reselling industry  |             |             |
+| Are there anythings you would like to see?   | affects from social media and celebrities              |             |             |   
+| Were there anythings you did not care about? | use bullet points when describing marketplaces         |             |             |   
+| Anything you found confusing?                | create a dashboard with all the plots together         |             |             | 
+|
+
+
+# In-Class Discussion
+
+
 
 
 # Identified changes for Part III
