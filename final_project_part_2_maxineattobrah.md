@@ -60,7 +60,7 @@ Text here!
 <div width="100%">
     <table>
       <tr>
-        <th>Questions<th>
+        <th>Questions</th>
         <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)</th>
         <th>Interview 2  (Sneakerhead, Recent Graduate)</th>
         <th>Interview 2  (Fashionista, Data Analyst)</th>
