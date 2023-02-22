@@ -124,13 +124,30 @@ We had an in class discussion where were in groups of 4 and gave each other feed
 
 Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+
+<html>
+<div width="100%">
+    <table>
+      <tr>
+        <th>Research synthesis </th>
+        <th>Anticipated changes for Part III </th>
+      </tr>
+      <tr>
+        <td>Charts</td>
+        <td>Story</td>
+        <td>Data</td>
+        <td>CTA</td>
+      </tr>
+      <tr>
+        <td>I should narrow down which line charts to show and potentially put it in a dashboard format so it does not look like contious scrollinh. Add percentages to platform dominance horixontal bar chart. Change the colors of the lines charts. Fix treemap to use a differnt and possible increate font.</td>
+        <td>Possibly mention the goals of resellers</td>
+        <td>See if I can find data on how social media and celebrities colabs affect sales</td>
+        <td>Make a stronger call to action</td>
+      </tr>   
+    </table>
+ </div>
+ </html>
+                                                                           |
 
 > ...include any final thoughts you have here. 
 
