@@ -61,9 +61,9 @@ Text here!
     <table>
       <tr>
         <th>Questions<th>
-        <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)<th>
-        <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
-        <th>Interview 2  (Fashionista, Data Analyst)<th>
+        <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)</th>
+        <th>Interview 2  (Sneakerhead, Recent Graduate)</th>
+        <th>Interview 2  (Fashionista, Data Analyst)</th>
       </tr>
       <tr>
         <td>Who do you think the audience is for this?</td>
