@@ -91,8 +91,6 @@ Text here!
   </table>
 </div>
    
-***
-    
 
 
 # In-Class Discussion
