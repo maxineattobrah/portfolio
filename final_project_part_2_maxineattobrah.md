@@ -56,7 +56,7 @@ Text here!
 
 Text here!
 
-
+<html>
 <div width="100%">
     <table>
       <tr>
@@ -109,6 +109,7 @@ Text here!
       </tr>
     </table>
  </div>
+ </html>
 
    
 
