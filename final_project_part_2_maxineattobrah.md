@@ -56,8 +56,8 @@ Text here!
 
 Text here!
 
-<html>
-  <div width="100%" height="100%">
+
+<div width="100%">
     <table>
       <tr>
         <th>Questions<th>
@@ -90,8 +90,8 @@ Text here!
         <td>Interview 2  (Fashionista, Data Analyst)<th>
       </tr>
     </table>
-  </div>
-</html>
+ </div>
+
    
 
 
