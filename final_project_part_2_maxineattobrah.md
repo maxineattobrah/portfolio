@@ -66,28 +66,28 @@ Text here!
         <th>Interview 2  (Fashionista, Data Analyst)<th>
       </tr>
       <tr>
-        <td>Who do you think the audience is for this?<th>
-        <td>someone trying to get into sneaker reselling industry<th>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)<th>
-        <td>Interview 2  (Fashionista, Data Analyst)<th>
+        <td>Who do you think the audience is for this?</td>
+        <td>Someone trying to get into sneaker reselling industry</td>
+        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>
       <tr>
-        <td>Are there anythings you would like to see?<th>
-        <td>someone trying to get into sneaker reselling industry<th>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)<th>
-        <td>Interview 2  (Fashionista, Data Analyst)<th>
+        <td>Are there anythings you would like to see?</td>
+        <td>Affects on how social media and celebrities ffect sales</td>
+        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>   
       <tr>
-        <td>Were there anythings you did not care about?<th>
-        <td>someone trying to get into sneaker reselling industry<th>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)<th>
-        <td>Interview 2  (Fashionista, Data Analyst)<th>
+        <td>Were there anythings you did not care about?</td>
+        <td>Make the descriptions of the platforms into bullet points<th>
+        <td>Interview 2  (Sneakerhead, Recent Graduate)/<td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>  
       <tr>
-        <td>Anything you found confusing?<th>
-        <td>someone trying to get into sneaker reselling industry<th>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)<th>
-        <td>Interview 2  (Fashionista, Data Analyst)<th>
+        <td>Anything you found confusing?</td>
+        <td>Create a dashboard. Have all the plots in the same plane</td>
+        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>
     </table>
  </div>
