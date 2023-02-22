@@ -62,18 +62,18 @@ Text here!
       <tr>
         <th>Questions</th>
         <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)</th>
-        <th>Interview 2  (Sneakerhead, Recent Graduate)</th>
-        <th>Interview 2  (Fashionista, Data Analyst)</th>
+        <th>Interview 2 (Sneakerhead, Recent Graduate)</th>
+        <th>Interview 3 (Fashionista, Data Analyst)</th>
       </tr>
       <tr>
         <td>Who do you think the audience is for this?</td>
         <td>Someone trying to get into sneaker reselling industry</td>
         <td>Sneakerheads</td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td>Interview 2 (Fashionista, Data Analyst)</td>
       </tr>
       <tr>
         <td>Are there anythings you would like to see?</td>
-        <td>How social media and celebrities ffect sales</td>
+        <td>How social media and celebrities affect sales</td>
         <td>Why are resales more available than the initial purchase? I understand there is limited inventory so that is the need for raffles but why are the resale prices so much higher?</td>
         <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>   
