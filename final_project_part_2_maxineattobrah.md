@@ -56,7 +56,43 @@ Text here!
 
 Text here!
 
-| Questions                                    | Interview 1 (Sneaker Reseller, 2nd Year Masters Student) | Interview 2 | Interview 3 |
+<table>
+  <tr>
+    <th>Questions<th>
+    <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)<th>
+    <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
+    <th>Interview 2  (Fashionista, Data Analyst)<th>
+  <tr>
+  <tr>
+    <th>Who do you think the audience is for this?<th>
+    <th>someone trying to get into sneaker reselling industry<th>
+    <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
+    <th>Interview 2  (Fashionista, Data Analyst)<th>
+  <tr>
+  <tr>
+    <th>Are there anythings you would like to see?<th>
+    <th>someone trying to get into sneaker reselling industry<th>
+    <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
+    <th>Interview 2  (Fashionista, Data Analyst)<th>
+  <tr>   
+  <tr>
+    <th>Were there anythings you did not care about?<th>
+    <th>someone trying to get into sneaker reselling industry<th>
+    <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
+    <th>Interview 2  (Fashionista, Data Analyst)<th>
+  <tr>  
+  <tr>
+    <th>Anything you found confusing?<th>
+    <th>someone trying to get into sneaker reselling industry<th>
+    <th>Interview 2  (Sneakerhead, Recent Graduate)<th>
+    <th>Interview 2  (Fashionista, Data Analyst)<th>
+  <tr>
+</table>
+   
+***
+    
+
+| Questions                                    | Interview 1 (Sneaker Reseller, 2nd Year Masters Student) | Interview 2  (Sneakerhead, Recent Graduate)| Interview 3 |
 |                                              |                                                                        |             | 
 |----------------------------------------------|--------------------------------------------------------|-------------|-------------|
 | Who do you think the audience is for this?   | someone trying to get into sneaker reselling industry  |             |             |
