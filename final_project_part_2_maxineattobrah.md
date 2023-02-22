@@ -117,7 +117,7 @@ Text here!
 # In-Class Discussion
 
 
-
+We had an in class discussion where were in groups of 4 and gave each other feedback on our rough drafts. People in group liked the flow of my story and liked that I had a picture to show each show. They were not a fan of the amount of lines charts I have. They thought it was too many and I dhould find a way to tell the story with less charts. They wanted to see percentages on some of the charts. Some inspirations that came about from that discussion was to keep the color of the retail price the same for all charts but chage the color of the resale price to match the shows. Majority of the group liked the tree map because it emphaszed how dominant certain brands are but they suggested to increase the font and/or change the color.  
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
