@@ -68,25 +68,43 @@ Text here!
       <tr>
         <td>Who do you think the audience is for this?</td>
         <td>Someone trying to get into sneaker reselling industry</td>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>Sneakerheads</td>
         <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>
       <tr>
         <td>Are there anythings you would like to see?</td>
-        <td>Affects on how social media and celebrities ffect sales</td>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>How social media and celebrities ffect sales</td>
+        <td>Why are resales more available than the initial purchase? I understand there is limited inventory so that is the need for raffles but why are the resale prices so much higher?</td>
         <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>   
       <tr>
         <td>Were there anythings you did not care about?</td>
-        <td>Make the descriptions of the platforms into bullet points<th>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)/<td>
+        <td>Make the descriptions of the platforms into bullet points</td>
+        <td>Not very concerned about brand dominance as much as I am about prices</td>
         <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>  
       <tr>
         <td>Anything you found confusing?</td>
         <td>Create a dashboard. Have all the plots in the same plane</td>
-        <td>Interview 2  (Sneakerhead, Recent Graduate)</td>
+        <td>Me personally, I am not very concerned about time of sales unless I am going to wait in line for shoes </td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
+      </tr>
+      <tr>
+        <td>What actions would you take after reading this?</td>
+        <td> </td>
+        <td>Seeing this data makes me likely to pay for a resale</td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
+      </tr>
+      <tr>
+        <td>Is there anything you like/dislike about the charts?</td>
+        <td> </td>
+        <td>n/a the charts were well displayed </td>
+        <td>Interview 2  (Fashionista, Data Analyst)</td>
+      </tr>
+      <tr>
+        <td>Is there anything you like/dislike about the charts?</td>
+        <td> </td>
+        <td>n/a</td>
         <td>Interview 2  (Fashionista, Data Analyst)</td>
       </tr>
     </table>
