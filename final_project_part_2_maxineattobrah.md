@@ -92,15 +92,6 @@ Text here!
 ***
     
 
-| Questions                                    | Interview 1 (Sneaker Reseller, 2nd Year Masters Student) | Interview 2  (Sneakerhead, Recent Graduate)| Interview 3 |
-|                                              |                                                                        |             | 
-|----------------------------------------------|--------------------------------------------------------|-------------|-------------|
-| Who do you think the audience is for this?   | someone trying to get into sneaker reselling industry  |             |             |
-| Are there anythings you would like to see?   | affects from social media and celebrities              |             |             |   
-| Were there anythings you did not care about? | use bullet points when describing marketplaces         |             |             |   
-| Anything you found confusing?                | create a dashboard with all the plots together         |             |             | 
-|
-
 
 # In-Class Discussion
 
