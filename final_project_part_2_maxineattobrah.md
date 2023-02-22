@@ -69,43 +69,44 @@ I tried to keep my focus to people in my target audience. I intentionaly avoided
         <td>Who do you think the audience is for this?</td>
         <td>Someone trying to get into sneaker reselling industry</td>
         <td>Sneakerheads</td>
-        <td>Interview 2 (Fashionista, Data Analyst)</td>
+        <td>Folks considering selling sneakers as it focuses on seller fees and possible loss on investment. But some info is also useful to sneaker buyers. 
+</td>
       </tr>
       <tr>
         <td>Are there anythings you would like to see?</td>
         <td>How social media and celebrities affect sales</td>
         <td>Why are resales more available than the initial purchase? I understand there is limited inventory so that is the need for raffles but why are the resale prices so much higher?</td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td>Show the Fees that you will have to pay to cash put from the reseller platform (ie goat or stockx fee for using paypal/checking account), At the end their is a “Takeaways” section that looks unfinished, Simplify the line charts by removing the visible dates of the x axis, I cant make sense of the Tableau info.</td>
       </tr>   
       <tr>
         <td>Were there anythings you did not care about?</td>
         <td>Make the descriptions of the platforms into bullet points</td>
         <td>Not very concerned about brand dominance as much as I am about prices</td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td>Tableau info. What about “Bots” in the goat section under commission fees?</td>
       </tr>  
       <tr>
         <td>Anything you found confusing?</td>
         <td>Create a dashboard. Have all the plots in the same plane</td>
         <td>Me personally, I am not very concerned about time of sales unless I am going to wait in line for shoes </td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td> </td>
       </tr>
       <tr>
         <td>What actions would you take after reading this?</td>
         <td> </td>
         <td>Seeing this data makes me likely to pay for a resale</td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td>I feel there is no action. There is good info for reader to consider in making a decision of where to resell and potential risk factors. </td>
       </tr>
       <tr>
         <td>Is there anything you like/dislike about the charts?</td>
         <td> </td>
         <td>n/a the charts were well displayed </td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td> </td>
       </tr>
       <tr>
         <td>Is there anything you like/dislike about the charts?</td>
         <td> </td>
         <td>n/a</td>
-        <td>Interview 2  (Fashionista, Data Analyst)</td>
+        <td> </td>
       </tr>
     </table>
  </div>
