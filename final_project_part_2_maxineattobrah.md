@@ -54,7 +54,7 @@ Text here!
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+I tried to keep my focus to people in my target audience. I intentionaly avoided asking questions to more established sneaker resellers since they are already doing my call to action. Some of the questions were answered in other questions so there was no need to ask it twice. 
 
 <html>
 <div width="100%">
@@ -139,7 +139,7 @@ Text here!
         <td>CTA</td>
       </tr>
       <tr>
-        <td>I should narrow down which line charts to show and potentially put it in a dashboard format so it does not look like contious scrollinh. Add percentages to platform dominance horixontal bar chart. Change the colors of the lines charts. Fix treemap to use a differnt and possible increate font.</td>
+        <td>I should narrow down which line charts to show and potentially put it in a dashboard format so it does not look like contious scrolling. Add percentages to platform dominance horixontal bar chart. Change the colors of the lines charts. Fix treemap to use a differnt and possible increate font.</td>
         <td>Possibly mention the goals of resellers</td>
         <td>See if I can find data on how social media and celebrities colabs affect sales</td>
         <td>Make a stronger call to action</td>
@@ -151,12 +151,12 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+The interviews were helpdul. It helps me make my story more concise. It also helps me to see what sneakerheads care about to have a broader view. Making the line plots into a dashboard is a creative idea but I want to see if there is a way to do that without loosing the audience attention or making it look too busy. 
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-I dedecided to create a persona for a sneakerhead. Steve is passionate about sneakers. He wasnts to start reselling sneakers. 
+I dedecided to create a persona for a sneakerhead. Steve is passionate about sneakers. He wants to start reselling sneakers. I used some data found in this [article](https://fivethirtyeight.com/features/you-see-sneakers-these-guys-see-hundreds-of-millions-in-resale-profit/) to help create my persona. Campless did a survey and over 1000 sneakerheads responded. 
 
 <div width="100%" height="100%">
   <embed src="Sneakerhead_Persona.pdf" width="800" height="800">
