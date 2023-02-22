@@ -62,8 +62,8 @@ I tried to keep my focus to people in my target audience. I intentionaly avoided
       <tr>
         <th>Questions</th>
         <th>Interview 1 (Sneaker Reseller, 2nd Year Masters Student)</th>
-        <th>Interview 2 (Sneakerhead, Recent Graduate)</th>
-        <th>Interview 3 (Fashionista, Data Analyst)</th>
+        <th>Interview 2 (Sneakerhead, Recent College Graduate)</th>
+        <th>Interview 3 (Sneakerhead, New Reseller)</th>
       </tr>
       <tr>
         <td>Who do you think the audience is for this?</td>
