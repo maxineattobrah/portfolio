@@ -23,7 +23,6 @@ I was also able to get an additional interview after the deadline for part 2 tha
         <td>Who do you think the audience is for this?</td>
         <td>This audience for this site are definitely potential sellers or even current sellers, more info on the resale industry as a whole, looking for a comparison between popular resell sites & retail & resell price, the different brands of sneakers that are resold, and the amount of money that specific brands of  sneakers/shoes  are being sold for</td>
 
-</td>
       </tr>
        <tr>
         <td>Can you describe to me what this is telling you?</td>
