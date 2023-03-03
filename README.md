@@ -20,8 +20,12 @@ Data can seem very complicated and overwhelming at first. During the exploratory
 
 This is where all my cool work will go. This is why you should hire me.
 
-[Government Debt Data Viz](/dataviz2.md)
+[Visualizing Debt](/dataviz2.md)
 
-[Assignment 3 and 4](/assignment3and4.md)
+[Critique By Design](/assignment3and4.md)
 
-[Final Project](/final_project_maxineattobrah.md)
+[Final Project Part I](/final_project_maxineattobrah.md)
+
+[Final Project Part II](/final_project_part_2_maxineattobrah.md)
+
+[Final Project Part III](/final_project_part_3_maxineattobrah.md)
