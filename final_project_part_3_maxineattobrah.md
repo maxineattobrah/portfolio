@@ -8,23 +8,23 @@ The final data story can be viewed [here](https://carnegiemellon.shorthandstorie
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
- I made a lot of changes since part 2. 
+There has been alot of changes made since Part II. I will discuss them in sections.
  
-### Headers
+**Headers**
 First I redesigned the story so that the reader can guide themselves throughout the presentation without me having to explain anything which was the purpose of adding headers to the website. 
 
-### Charts
+**Charts**
 Throughout my interviews and class discussions there were conflicts on which graphs to choose. Most people in my class discussion liked my graphs but the people I interviewed outside of the class had trouble understanding some charts. Mainly the graphs I originally had in  Tableau. They were confusing to them. So I ended up changing the treemap to a word cloud. I aslo changed the data represented in the bar chart to focus more on the revenue the platforms are making as average price sold on on each platform.
 
 There were clearly some bias opinions on what shoes should be displayed from interviewers. Most of my interviewers are Nike and Yeezy fans. And after a discussion with the professor I decided to focus on three charts. I did not like the contionous scrolling I was doing the charts. I wanted to hit the point sooner. 
 
 I also tried to match the line charts with the colors of the shoes but kept the color of the retail the price. I really wanted to emphasize the return on investment people were making on the resell market and what they were not making. 
  
-### Images/Videos
+**Images/Videos**
 
 I changed the images and vidoes to have links that I had more confidence that I had access to. The videos give a nice touch and people can click on them to learn more information. The tik tok video was a nice touch. 
 
-### Call to Action
+**Call to Action**
 I originally had the call to action to go straight into the resell market but that was not a good idea especially if they are new. They would most likely not know what to do and get overwhelmed with all the options. Instead I added some links to youtube channels of sneaker enthusiasts that give good reviews on sneakers and the platforms. This way newbies can find more ways to learn before jumping in to try their first sale.
 
  
