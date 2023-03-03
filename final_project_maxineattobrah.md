@@ -1,3 +1,5 @@
+| [home page](https://maxineattobrah.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](assignment3and4.md) | [final project I](final_project_maxineattobrah.md) | [final project II](final_project_part_2_maxineattobrah.md) | [final project III](final_project_part_3_maxineattobrah.md) |
+
 # Outline
 
 In this day and age people have the opportunity to invest in other options besides the stock market and real estate. In this project I would like to explore the possiblility of investing in sneakers.
