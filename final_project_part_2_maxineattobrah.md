@@ -15,7 +15,7 @@ Finally I provide some resources of how people can learn more about reselling sn
 I wanted to use both Tableau as well Flourish as a data visualization too to stretch myself. I think both tools have their advantages and give me option to express myself in different ways using data visualizations. I was undecided towards which sneakers to keep as examples. I am hoping my interviewers can help me narrow the images down and tell a better story that they care about.
 
 
-<script src="https://carnegiemellon.shorthandstories.com/a-story-on-selling-sneakers/embed.js"></script>
+<script src="https://carnegiemellon.shorthandstories.com/the-art-of-reselling-sneakers/embed.js"></script>
 
 Thats the end of my first draft!
 
