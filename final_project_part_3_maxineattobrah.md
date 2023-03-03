@@ -32,13 +32,17 @@ Most people that I interviewd and in my class discussion group felt my charts we
 
 During the interview process there were some people I just sent a link to the website and sent the questions. I wanted to see if people could get the general idea without me having to say anything ot direct them. As I was fixing my website for part III I decided to look at the website using the mobile view. I noticed that the Tableau charts look very different on Mobile.
 
-Add picture of Tableau charts.....
+
+
+Shorthand_Tableau_Mobile.png
+
 
 I did not notice that bedoew so I ended up changing the treemap to a word cloud to illustrate that Nike is the most talked about brand in terms of what people are looking to buy. I aslo changed the data represented in the bar chart to focus more on the annual revenue each platform are making instead. 
 
 I had a hard time deciding which shoes to display. There are so many interesting shoes! I thought adding more shoes would build excitement for the reader but I did not like contionously scrolling. I decided to focus on three charts. 
 
 I also tried to match the line charts with the colors of the shoes but kept the color of the retail the price. I really wanted to emphasize the return on investment people were making on the resell market and what they were not making. 
+ 
  
 
  
