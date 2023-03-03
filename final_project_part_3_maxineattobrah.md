@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://maxineattobrah.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](assignment3and4.md) | [final project I](final_project_maxineattobrah.md) | [final project II](final_project_part_2_maxineattobrah.md) | [final project III](final_project_part_3_maxineattobrah.md) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
