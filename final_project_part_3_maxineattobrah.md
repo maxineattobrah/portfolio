@@ -8,7 +8,59 @@ The final data story can be viewed [here](https://carnegiemellon.shorthandstorie
 # Final design decisions: Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-There has been alot of changes made since Part II. I will discuss them in sections.
+There has been alot of changes made since Part II. I will discuss them in sections. 
+
+I was also able to get an additional interview after the deadline for part 2 that also helped me further refine my story. The responses are in the table below:
+
+<html>
+<div width="100%">
+    <table>
+      <tr>
+        <th>Questions</th>
+        <th>Interview 4 (Sneakerhead, Resold some shoes, Data Analayst)</th>
+      </tr>
+      <tr>
+        <td>Who do you think the audience is for this?</td>
+        <td>This audience for this site are definitely potential sellers or even current sellers, more info on the resale industry as a whole, looking for a comparison between popular resell sites & retail & resell price, the different brands of sneakers that are resold, and the amount of money that specific brands of  sneakers/shoes  are being sold for</td>
+
+</td>
+      </tr>
+       <tr>
+        <td>Can you describe to me what this is telling you?</td>
+        <td>The site is giving me information on the different resell platforms where people can sell sneakers, StockX, GOAT, Flight club being the most popular sites, How much revenue the sneaker resale industry has made, which brands are dominating the resale industry and who has the most sellers, the retail and resell price and of the most popular brands of sneakers, as well as the fees/commissions  for selling items on these sites</td>
+ 
+      </tr>
+      <tr>
+        <td>Are there anythings you would like to see?</td>
+        <td>I see the revenue for the industry as a whole but since specific platforms are being highlighted, why not create a chart that shows how much each popular site has made so far.</td>
+   
+      </tr>   
+      <tr>
+        <td>Were there anythings you did not care about?</td>
+        <td>Website is pretty informative for someone looking to sell sneakers for the first time. I consider myself a sneakerhead, I've bought and sold Nikes and Yeezy’s before but I don’t care for Lebron's lol.</td>
+   
+      </tr>  
+      <tr>
+        <td>Anything you found confusing?</td>
+        <td>Everything was pretty straight forward, there were pictures, I loved the charts, graphs and the keys explaining the colors and numbers</td>
+ 
+      </tr>
+      <tr>
+        <td>What actions would you take after reading this?</td>
+        <td>Maybe look more into StockX as a seller platform, I learned more about StockX than I knew before it wasn’t a fav site of mine before </td>
+   
+      </tr>
+      <tr>
+        <td>Is there anything you like/dislike about the charts?</td>
+        <td>Yes, I didn’t like the color scheme used in the Brand Dominance chart</td>
+
+      </tr>
+
+    </table>
+ </div>
+ </html>
+ 
+### These are the changes made since Part II: 
  
 <b>Headers</b>
 <br>
@@ -30,15 +82,14 @@ After discussing it with some people that would be like releasing someone into t
 <br>
 Most people that I interviewd and in my class discussion group felt my charts were effective. However, there were some charts that people had trouble understanding. Mainly the graphs I originally had in Tableau. 
 
-During the interview process there were some people I just sent a link to the website and sent the questions. I wanted to see if people could get the general idea without me having to say anything ot direct them. As I was fixing my website for part III I decided to look at the website using the mobile view. I noticed that the Tableau charts look very different on Mobile.
+During the interview process there were some people I just sent a link to the website and sent the questions. I wanted to see if people could get the general idea without me having to say anything ot direct them. As I was fixing my website for part III I decided to look at the website using the mobile view. I noticed that the Tableau charts look very different on Mobile. I did not ask but I am assuming people tried to view on their mobile devices. 
 
 
 <img src="Shorthand_Tableau_Mobile.png" alt="Starbucks Map" width="100%" height="100%">
 
 
 
-
-I did not notice that bedoew so I ended up changing the treemap to a word cloud to illustrate that Nike is the most talked about brand in terms of what people are looking to buy. I aslo changed the data represented in the bar chart to focus more on the annual revenue each platform are making instead. 
+I did not notice that beforehand so I ended up changing the treemap to a word cloud to illustrate that Nike is the most talked about brand in terms of what people are looking to buy. I aslo changed the data represented in the bar chart to focus more on the annual revenue each platform are making instead. 
 
 I had a hard time deciding which shoes to display. There are so many interesting shoes! I thought adding more shoes would build excitement for the reader but I did not like contionously scrolling. I decided to focus on three charts. 
 
