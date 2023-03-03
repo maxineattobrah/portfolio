@@ -10,14 +10,14 @@ The final data story can be viewed [here](https://carnegiemellon.shorthandstorie
 
 There has been alot of changes made since Part II. I will discuss them in sections.
  
-**Headers**
+<b>Headers</b>
 I created headers to create a self-guided experience for the reader. Initially the site was not set up for someone to understand the flow of everything. There were "big ideas" to get a general sense of what I was trying to say. I am hoping this new approach will make it clear exactly what I am saying.
 
-**Images/Videos**
+<b>Images/Videos</b>
 
 People liked that I added the images of the shoes I was talked about because it helped them see what the shoe looked like. Instead of adding images of sneakers I decided to add more videos instead.  This would not only let me people see the shoe I was talking about but now they can get a more detailed experience when watching the video. So far I was only able to get reaction for students in the class during the presentation towards the Tik Tok video that autoplayed but they seemed to enjoy that new feature. The videos help the user get a 360 view of the shoe. 
 
-**Charts**
+<b>Charts</b>
 Gener
 
 Throughout my interviews and class discussions there were conflicts on which graphs to choose. 
@@ -30,7 +30,7 @@ I also tried to match the line charts with the colors of the shoes but kept the 
  
 
 
-**Call to Action**
+<b>Call to Action</b>
 I originally had the call to action to go straight into the resell market but that was not a good idea especially if they are new. They would most likely not know what to do and get overwhelmed with all the options. Instead I added some links to youtube channels of sneaker enthusiasts that give good reviews on sneakers and the platforms. This way newbies can find more ways to learn before jumping in to try their first sale.
 
  
