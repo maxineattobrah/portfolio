@@ -33,8 +33,9 @@ Most people that I interviewd and in my class discussion group felt my charts we
 During the interview process there were some people I just sent a link to the website and sent the questions. I wanted to see if people could get the general idea without me having to say anything ot direct them. As I was fixing my website for part III I decided to look at the website using the mobile view. I noticed that the Tableau charts look very different on Mobile.
 
 
+<img src="Shorthand_Tableau_Mobile.png" alt="Starbucks Map" width="100%" height="100%">
 
-Shorthand_Tableau_Mobile.png
+
 
 
 I did not notice that bedoew so I ended up changing the treemap to a word cloud to illustrate that Nike is the most talked about brand in terms of what people are looking to buy. I aslo changed the data represented in the bar chart to focus more on the annual revenue each platform are making instead. 
