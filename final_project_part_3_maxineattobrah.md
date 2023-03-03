@@ -51,7 +51,14 @@ My audience are sneaker enthusiasts who are interested in getting into sneaker r
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+Resources:
+
+https://www.sothebys.com/en/articles/off-white-x-nike-the-history-behind-virgil-ablohs-sneaker-collaborations
+
+https://stockx.com/
+
+https://www.goat.com/
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
