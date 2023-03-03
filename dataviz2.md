@@ -1,3 +1,5 @@
+| [home page](https://maxineattobrah.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](assignment3and4.md) | [final project I](final_project_maxineattobrah.md) | [final project II](final_project_part_2_maxineattobrah.md) | [final project III](final_project_part_3_maxineattobrah.md) |
+
 # Analyzing Debt-to-GDP Ratios Around the World Using Data Visualtions
 
 The charts below use data from the Organization of Economic Co-operation Development (OECD). The OECD is a global organization that assists in creating policies that improve the lives of others socially, economically and enviromentally. The data analyszed below represents the Debt-to-GDP ratio from various countries. This ratio is a way to see how much debt a country is in. 
