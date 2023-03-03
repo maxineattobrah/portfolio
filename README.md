@@ -1,6 +1,8 @@
 # portfolio
 This is a public portfolio for Telling Stores with Data at CMU!
 
+| [home page](https://maxineattobrah.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](assignment3and4.md) | [final project I](final_project_maxineattobrah.md) | [final project II](final_project_part_2_maxineattobrah.md) | [final project III](final_project_part_3_maxineattobrah.md) |
+
 # About Me
 
 I am a second year masters student at Carnegie Mellon University. I am pursuing a MS in Electrical & Computer Engineering and MS in Engineering & Technology Innovation Management. My passion lies within the intersection of technology, business and art. My courses have been centered around data science, machine learning and entrepreneurship. I like to write about various topics under the artificial intelligence umbrella. You can check some of my articles [here](https://medium.com/@maxineattobrah) 😄
