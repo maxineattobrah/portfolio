@@ -11,19 +11,23 @@ The final data story can be viewed [here](https://carnegiemellon.shorthandstorie
 There has been alot of changes made since Part II. I will discuss them in sections.
  
 <b>Headers</b>
+<br>
 I created headers to create a self-guided experience for the reader. Initially the site was not set up for someone to understand the flow of everything. There were "big ideas" to get a general sense of what I was trying to say. I am hoping this new approach will make it clear exactly what I am saying.
 
 <b>Images/Videos</b>
+<br>
+People liked that I added the images of the shoes I was talked about because it helped them see what the shoe looked like. Instead of adding images of sneakers I decided to add more videos instead.  This would not only let me people see the shoe about but now they can get a more detailed information when they watch the video. The videos also helped tie in the the reasons of how social media affects sneaker resell prices. As of right now I was only able to get reaction for students in the class during the presentation towards the Tik Tok video that autoplayed but they seemed to enjoy that new feature. The videos help the user get a 360 view of the shoe. 
 
-People liked that I added the images of the shoes I was talked about because it helped them see what the shoe looked like. Instead of adding images of sneakers I decided to add more videos instead.  This would not only let me people see the shoe I was talking about but now they can get a more detailed experience when watching the video. So far I was only able to get reaction for students in the class during the presentation towards the Tik Tok video that autoplayed but they seemed to enjoy that new feature. The videos help the user get a 360 view of the shoe. 
+
 
 <b>Call to Action</b>
+<br>
 Initially, I was not sure what my call to action should be. I thought it would be a good idea to have links to the marketplaces since I spoke about the various marketplaces people can buy and sell sneakers. The general idea is that since they have learned a little bit about the platform now they should go explore those platforms. 
 
 After discussing it with some people that would be like releasing someone into the wild too quickly. Someone completely new to this industry should not try selling right away. This is not like buying stocks of the S&P 500. Instead, the reader should continue to learn more information about sneakers. I added some links to youtube channels of sneaker enthusiasts that give good reviews on sneakers and the platforms that were mentioned in this video. This way newbies can find more ways to learn from others before jumping in to try their first sale.
 
 <b>Charts</b>
-
+<br>
 Most people that I interviewd and in my class discussion group felt my charts were effective. However, there were some charts that people had trouble understanding. Mainly the graphs I originally had in Tableau. 
 
 During the interview process there were some people I just sent a link to the website and sent the questions. I wanted to see if people could get the general idea without me having to say anything ot direct them. As I was fixing my website for part III I decided to look at the website using the mobile view. I noticed that the Tableau charts look very different on Mobile.
@@ -52,4 +56,4 @@ Text here!
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I enjoyed trying different charts and colors to visualize the data. Wireframing the chsrts before doing the actual implementation helped alot to focus on the big picture and get feedbaack before putting too much work in. The interviews, group class discussions, conversations with the Professor and TA really helped me focus my story and create better effective as well as visualling appealing charts. I liked having the opportuity to create charts on Tableau and Flourish. If I had more time I would look into more ways to clean up the x-axis on the line charts. 
